@@ -225,8 +225,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: test dasda asd <br>addasas s asddas
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a7fc43858d72b9e4096775a15deff6de, type: 2}
-  m_sharedMaterial: {fileID: 8713846370700950288, guid: a7fc43858d72b9e4096775a15deff6de,
+  m_fontAsset: {fileID: 11400000, guid: 4c7615c7a7e3afa44802c9eca6ef7605, type: 2}
+  m_sharedMaterial: {fileID: -4482050788893473322, guid: 4c7615c7a7e3afa44802c9eca6ef7605,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}

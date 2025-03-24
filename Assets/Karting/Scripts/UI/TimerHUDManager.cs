@@ -15,7 +15,7 @@ public class TimerHUDManager : MonoBehaviour
 
         if (m_TimeManager.IsFinite)
         {
-            timerText.text = "";
+            timerText.text = "TEMPO: ";
         }
     }
     
