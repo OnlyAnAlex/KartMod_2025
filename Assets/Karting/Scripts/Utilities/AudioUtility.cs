@@ -32,7 +32,7 @@ public class AudioUtility
     public static AudioMixerGroup GetAudioGroup(AudioGroups group)
     {
         if (m_AudioManager == null)
-            m_AudioManager = GameObject.FindObjectOfType<AudioManager>();
+            m_AudioManager = GameObject.FindFirstObjectByType<AudioManager>();
 
         var groups = m_AudioManager.audioMixer.FindMatchingGroups(group.ToString());
 
