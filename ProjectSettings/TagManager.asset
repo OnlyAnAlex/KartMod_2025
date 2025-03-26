@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - CrashMode
+  - Checkpoint
   layers:
   - Default
   - TransparentFX
@@ -21,8 +22,8 @@ TagManager:
   - CrashObject
   - Kart
   - TrainingCheckpoints
-  - 
-  - 
+  - P1 CAMERA
+  - P2 CAMERA
   - 
   - 
   - 
