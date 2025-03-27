@@ -2279,6 +2279,19 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.021358073, y: 0.020594832, z: 0.02046365}
   m_Center: {x: 0, y: -0.00006559164, z: 0}
+--- !u!114 &324234283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 324234277}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cf6d9240fa53f549915935745e6b148, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  items: []
 --- !u!43 &345517515
 Mesh:
   m_ObjectHideFlags: 0
@@ -3129,6 +3142,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400012, guid: 0829d76c4806eb54b8b2f17eec10f4e6,
     type: 3}
   m_PrefabInstance: {fileID: 409335563}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &420917680 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3508530279822352650, guid: 89959269b5b931b43a045276c5ee301a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1838323911}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &432804642 stripped
 GameObject:
@@ -9615,7 +9634,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1158056087}
   - component: {fileID: 1158056086}
-  - component: {fileID: 1158056085}
   - component: {fileID: 1158056084}
   - component: {fileID: 1158056083}
   m_Layer: 0
@@ -9703,14 +9721,6 @@ MonoBehaviour:
   m_CameraActivatedEvent:
     m_PersistentCalls:
       m_Calls: []
---- !u!81 &1158056085
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1158056082}
-  m_Enabled: 1
 --- !u!20 &1158056086
 Camera:
   m_ObjectHideFlags: 0
@@ -11608,6 +11618,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: GabrielKart
       objectReference: {fileID: 0}
+    - target: {fileID: 3508530279822352650, guid: 8ff9252dd45d8e648bbedf8e20fc63cf,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -12076,7 +12091,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b1b66f0e33a0c7345bc798d755b635f8,
         type: 3}
       propertyPath: m_Name
-      value: Caixa
+      value: ItemBox
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12090,6 +12105,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 324234278}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: b1b66f0e33a0c7345bc798d755b635f8,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 324234283}
   m_SourcePrefab: {fileID: 100100000, guid: b1b66f0e33a0c7345bc798d755b635f8, type: 3}
 --- !u!1001 &1505435360
 PrefabInstance:
@@ -14794,7 +14813,11 @@ PrefabInstance:
         type: 3}
       insertIndex: 0
       addedObject: {fileID: 640669055}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3508530279822352650, guid: 89959269b5b931b43a045276c5ee301a,
+        type: 3}
+      insertIndex: 5
+      addedObject: {fileID: 1975772729}
   m_SourcePrefab: {fileID: 100100000, guid: 89959269b5b931b43a045276c5ee301a, type: 3}
 --- !u!1001 &1842916673
 PrefabInstance:
@@ -15727,6 +15750,20 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1838323911}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1975772729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 420917680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f87f3a1771dd9548b33f568a2649efa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hudItemDisplay: {fileID: 0}
+  rouletteSpeed: 0.1
 --- !u!1001 &1982200406
 PrefabInstance:
   m_ObjectHideFlags: 0
