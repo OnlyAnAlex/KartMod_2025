@@ -1889,9 +1889,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1345553801}
-        m_TargetAssemblyTypeName: KartGame.UI.LoadSceneButton, KartGame
-        m_MethodName: LoadTargetScene
+      - m_Target: {fileID: 40366239}
+        m_TargetAssemblyTypeName: CarSelection, KartGame
+        m_MethodName: OnVehicleSelectedSinglePlayer
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

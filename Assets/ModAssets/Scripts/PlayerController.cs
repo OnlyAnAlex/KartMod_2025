@@ -76,7 +76,9 @@ public class PlayerController : MonoBehaviour
         if (currentItem != null && currentItem.prefab != null)
         {
             // Instancia o prefab do item na frente do jogador
-            Instantiate(currentItem.prefab, transform.position + transform.forward, Quaternion.identity);
+            Instantiate(currentItem.prefab, transform.position + transform.forward, transform.rotation);
+
+            //Instantiate(currentItem.prefab, transform.position + transform.forward, Quaternion.identity);
 
             // Limpa o item atual e a HUD
             currentItem = null;

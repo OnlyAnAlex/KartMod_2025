@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 using System;
+using UnityEngine.SceneManagement;
 
 
 public class CarSelection : MonoBehaviour
@@ -59,10 +60,30 @@ public class CarSelection : MonoBehaviour
     }
 
     
-
     public void ChangeCart(int _change) {
         currentCar += _change;
         SelectCar(currentCar);
        
+    }
+
+    public void OnVehicleSelectedSinglePlayer()
+    {   
+        
+        PlayerPrefs.SetInt("SelectedP1", currentCar);
+
+        Debug.Log(currentCar);
+
+        SceneManager.LoadScene("MainScene"); 
+    }
+
+    public void OnVehicleSelectedMultiPlayer()
+    {
+
+        PlayerPrefs.SetInt("SelectedP1", currentCar);
+        PlayerPrefs.SetInt("SelectedP2", currentCar);
+
+        Debug.Log(currentCar);
+
+        SceneManager.LoadScene("MainScene");
     }
 }
