@@ -19,20 +19,6 @@ public class CarSelection : MonoBehaviour
         SelectCar(0);
     }
 
-    void Update()
-    {
-        Debug.Log("sim");
-        if (Input.GetKeyDown(KeyCode.RightArrow))
-        {
-            ChangeCart(1);
-        }
-
-        if (Input.GetKeyDown(KeyCode.LeftArrow))
-        {
-            ChangeCart(-1);
-        }
-    }
-
     private void SelectCar(int _index) {
 
         previousButton.interactable = (_index != 0);
@@ -73,7 +59,7 @@ public class CarSelection : MonoBehaviour
 
         Debug.Log(currentCar);
 
-        SceneManager.LoadScene("MainScene"); 
+        //SceneManager.LoadScene("MainScene"); 
     }
 
     public void OnVehicleSelectedMultiPlayer()
@@ -83,6 +69,12 @@ public class CarSelection : MonoBehaviour
         PlayerPrefs.SetInt("SelectedP2", currentCar);
 
         Debug.Log(currentCar);
+
+        //SceneManager.LoadScene("MainScene");
+    }
+
+
+    public void GoToTrack() {
 
         SceneManager.LoadScene("MainScene");
     }
