@@ -181,7 +181,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -261,7 +261,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -335,7 +335,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f55ede618e6215419c7bdd914ee9a37,
         type: 3}
       propertyPath: m_Name
-      value: casa_vermelha (14)
+      value: red_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -404,7 +404,7 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 925475506}
+  - {fileID: 0}
   - {fileID: 0}
   useGrid: 0
   gridCenter: {x: 0, y: 0, z: 0}
@@ -472,7 +472,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -485,7 +485,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 925475507}
+    m_TransformParent: {fileID: 822690626}
     m_Modifications:
     - target: {fileID: 100000, guid: 5830767f6fba8446ebc1160d406849b5, type: 3}
       propertyPath: m_Layer
@@ -505,7 +505,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5830767f6fba8446ebc1160d406849b5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -50.5
+      value: -13.501488
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5830767f6fba8446ebc1160d406849b5, type: 3}
       propertyPath: m_LocalPosition.y
@@ -513,19 +513,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5830767f6fba8446ebc1160d406849b5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -69.13
+      value: 97.13281
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5830767f6fba8446ebc1160d406849b5, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.7071068
+      value: 0.70711446
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5830767f6fba8446ebc1160d406849b5, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5830767f6fba8446ebc1160d406849b5, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.7071068
+      value: 0.7070992
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5830767f6fba8446ebc1160d406849b5, type: 3}
       propertyPath: m_LocalRotation.z
@@ -728,7 +728,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -802,7 +802,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f55ede618e6215419c7bdd914ee9a37,
         type: 3}
       propertyPath: m_Name
-      value: casa_vermelha (6)
+      value: red_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -876,7 +876,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2 (9)
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -950,7 +950,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1030,7 +1030,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1098,7 +1098,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (2)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1172,7 +1172,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1252,7 +1252,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1422,7 +1422,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1608,7 +1608,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: arvore_grande[1] (1)
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1682,7 +1682,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2 (5)
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1852,7 +1852,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2 (3)
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1932,7 +1932,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2006,7 +2006,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2201,7 +2201,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2275,7 +2275,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (5)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2355,7 +2355,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2423,7 +2423,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2612,7 +2612,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2789,7 +2789,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2974,7 +2974,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: predio_3[1] (4)
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3054,7 +3054,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: arvore_grande[1] (12)
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3140,7 +3140,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3220,7 +3220,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (25)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3306,7 +3306,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: arvore_grande[1] (9)
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3412,7 +3412,15 @@ PrefabInstance:
     - {fileID: 1579282987816156490, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1579282987822437358, guid: 941fac9249b6442cdb2d3f23472128e2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 524571432}
+    - targetCorrespondingSourceObject: {fileID: 1579282987822437358, guid: 941fac9249b6442cdb2d3f23472128e2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 524571431}
   m_SourcePrefab: {fileID: 100100000, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
 --- !u!1001 &215907843
 PrefabInstance:
@@ -3475,7 +3483,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3543,7 +3551,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2 (1)
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3617,7 +3625,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2 (1)
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3691,7 +3699,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: arvore_grande[1] (6)
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3765,7 +3773,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f55ede618e6215419c7bdd914ee9a37,
         type: 3}
       propertyPath: m_Name
-      value: casa_vermelha (10)
+      value: red_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4050,7 +4058,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4124,7 +4132,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4192,7 +4200,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4272,7 +4280,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4340,7 +4348,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4563,7 +4571,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4631,7 +4639,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4699,7 +4707,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4773,7 +4781,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5032,7 +5040,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5106,7 +5114,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5194,7 +5202,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: predio_3[1] (1)
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5556,7 +5564,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5727,7 +5735,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f55ede618e6215419c7bdd914ee9a37,
         type: 3}
       propertyPath: m_Name
-      value: casa_vermelha (9)
+      value: red_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5807,7 +5815,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5881,7 +5889,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5949,7 +5957,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6017,7 +6025,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: arvore_grande[1] (11)
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6123,7 +6131,15 @@ PrefabInstance:
     - {fileID: 1579282987816156490, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1579282987822437358, guid: 941fac9249b6442cdb2d3f23472128e2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1038031699}
+    - targetCorrespondingSourceObject: {fileID: 1579282987822437358, guid: 941fac9249b6442cdb2d3f23472128e2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1038031700}
   m_SourcePrefab: {fileID: 100100000, guid: 941fac9249b6442cdb2d3f23472128e2, type: 3}
 --- !u!1001 &359306721
 PrefabInstance:
@@ -6186,7 +6202,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6356,7 +6372,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6430,7 +6446,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: predio_3[1] (3)
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6510,7 +6526,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: predio_3[1] (11)
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6584,7 +6600,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6658,7 +6674,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6756,7 +6772,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6836,7 +6852,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7014,7 +7030,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7082,7 +7098,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7156,7 +7172,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7230,7 +7246,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7304,7 +7320,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (13)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7384,7 +7400,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7464,7 +7480,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7538,7 +7554,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7721,7 +7737,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree (2)
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7801,7 +7817,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f55ede618e6215419c7bdd914ee9a37,
         type: 3}
       propertyPath: m_Name
-      value: casa_vermelha
+      value: red_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7881,7 +7897,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8080,7 +8096,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8154,7 +8170,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8222,7 +8238,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8490,7 +8506,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2 (2)
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8570,7 +8586,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8644,7 +8660,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: arvore_grande[1] (3)
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8724,7 +8740,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8798,7 +8814,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8866,7 +8882,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9076,7 +9092,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9150,7 +9166,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (9)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9169,6 +9185,54 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 605861505}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &524571427 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1579282987822437358, guid: 941fac9249b6442cdb2d3f23472128e2,
+    type: 3}
+  m_PrefabInstance: {fileID: 215357259}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &524571431
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 524571427}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.2210846, y: 11.0381565, z: 10}
+  m_Center: {x: -5.2573547, y: 5.2690783, z: 5}
+--- !u!65 &524571432
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 524571427}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.20618534, y: 11.208752, z: 10}
+  m_Center: {x: 4.8969083, y: 5.354376, z: 5}
 --- !u!4 &529266190 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: af93262e9aff2424eaa8481f28196b74,
@@ -9236,7 +9300,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9428,7 +9492,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9702,7 +9766,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9776,7 +9840,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10009,7 +10073,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10040,7 +10104,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 925475507}
+    m_TransformParent: {fileID: 822690626}
     m_Modifications:
     - target: {fileID: 100000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
       propertyPath: m_Name
@@ -10060,7 +10124,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -119.35
+      value: 55.35045
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
       propertyPath: m_LocalPosition.y
@@ -10068,23 +10132,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 20.83
+      value: 7.1742973
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -3.7493994e-33
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -6.123234e-17
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
-      propertyPath: m_LocalRotation.y
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -6.123168e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0000107586375
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 6.123234e-17
+      value: -6.1233004e-17
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -10176,7 +10240,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10250,7 +10314,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10318,7 +10382,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f55ede618e6215419c7bdd914ee9a37,
         type: 3}
       propertyPath: m_Name
-      value: casa_vermelha (15)
+      value: red_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10337,7 +10401,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 925475507}
+    m_TransformParent: {fileID: 822690626}
     m_Modifications:
     - target: {fileID: 100000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_Name
@@ -10357,7 +10421,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -70.44
+      value: 6.438942
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalPosition.y
@@ -10365,23 +10429,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -49.15
+      value: 77.153244
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
-      propertyPath: m_LocalRotation.y
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0000107586375
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -10491,7 +10555,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10565,7 +10629,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (7)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10651,7 +10715,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10719,7 +10783,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10787,7 +10851,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10861,7 +10925,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10929,7 +10993,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10997,7 +11061,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11016,7 +11080,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 925475507}
+    m_TransformParent: {fileID: 822690626}
     m_Modifications:
     - target: {fileID: 6573238964211286492, guid: e2299f494e1674e9684aad2e11474f9d,
         type: 3}
@@ -11026,7 +11090,7 @@ PrefabInstance:
     - target: {fileID: 6573238964211523068, guid: e2299f494e1674e9684aad2e11474f9d,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -79.449554
+      value: 15.449997
       objectReference: {fileID: 0}
     - target: {fileID: 6573238964211523068, guid: e2299f494e1674e9684aad2e11474f9d,
         type: 3}
@@ -11036,12 +11100,12 @@ PrefabInstance:
     - target: {fileID: 6573238964211523068, guid: e2299f494e1674e9684aad2e11474f9d,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 20.71344
+      value: 7.289999
       objectReference: {fileID: 0}
     - target: {fileID: 6573238964211523068, guid: e2299f494e1674e9684aad2e11474f9d,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: -1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6573238964211523068, guid: e2299f494e1674e9684aad2e11474f9d,
         type: 3}
@@ -11051,7 +11115,7 @@ PrefabInstance:
     - target: {fileID: 6573238964211523068, guid: e2299f494e1674e9684aad2e11474f9d,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.0000107586375
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6573238964211523068, guid: e2299f494e1674e9684aad2e11474f9d,
         type: 3}
@@ -11145,7 +11209,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11325,7 +11389,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11393,7 +11457,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11467,7 +11531,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11535,7 +11599,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: arvore_grande[1] (2)
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11609,7 +11673,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11683,7 +11747,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11757,7 +11821,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11940,7 +12004,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12275,7 +12339,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12343,7 +12407,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12411,7 +12475,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12497,7 +12561,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f55ede618e6215419c7bdd914ee9a37,
         type: 3}
       propertyPath: m_Name
-      value: casa_vermelha (16)
+      value: red_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12571,7 +12635,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12639,7 +12703,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12707,7 +12771,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: arvore_grande[1] (8)
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12781,7 +12845,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12849,7 +12913,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12935,7 +12999,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14262,7 +14326,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14330,7 +14394,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14528,7 +14592,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14608,7 +14672,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: arvore_grande[1] (10)
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14682,7 +14746,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14756,7 +14820,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14948,7 +15012,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14967,7 +15031,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 925475507}
+    m_TransformParent: {fileID: 822690626}
     m_Modifications:
     - target: {fileID: 100000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_Name
@@ -14987,7 +15051,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -50.499405
+      value: -13.499508
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalPosition.y
@@ -14995,23 +15059,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 50.502655
+      value: -22.499838
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
-      propertyPath: m_LocalRotation.y
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0000107586375
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -15109,7 +15173,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (14)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15183,7 +15247,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15360,7 +15424,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15434,7 +15498,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15526,7 +15590,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15600,7 +15664,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: arvore_grande[1] (13)
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15680,7 +15744,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15754,7 +15818,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15822,7 +15886,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15847,7 +15911,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 925475507}
+    m_TransformParent: {fileID: 822690626}
     m_Modifications:
     - target: {fileID: 100000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_Name
@@ -15867,7 +15931,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -104.499596
+      value: 40.500496
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalPosition.y
@@ -15875,23 +15939,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 41.710194
+      value: -13.706217
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
-      propertyPath: m_LocalRotation.y
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0000107586375
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -15983,7 +16047,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16000,7 +16064,7 @@ GameObject:
   m_Component:
   - component: {fileID: 822690626}
   m_Layer: 0
-  m_Name: OvalTrack
+  m_Name: Track
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16014,8 +16078,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 822690625}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -1, z: 0, w: 0}
+  m_LocalPosition: {x: 15.45, y: 0.24, z: 7.24}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -16054,7 +16118,19 @@ Transform:
   - {fileID: 166496312}
   - {fileID: 827599271}
   - {fileID: 1179999523}
-  m_Father: {fileID: 0}
+  - {fileID: 30553910}
+  - {fileID: 1194291394}
+  - {fileID: 531262687}
+  - {fileID: 1673011965}
+  - {fileID: 1353094206}
+  - {fileID: 386426935}
+  - {fileID: 470850844}
+  - {fileID: 754220859}
+  - {fileID: 1987036536}
+  - {fileID: 491111849}
+  - {fileID: 1612361935}
+  - {fileID: 524242286}
+  m_Father: {fileID: 1663020711}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &824813420
 PrefabInstance:
@@ -16117,7 +16193,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16185,7 +16261,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16368,7 +16444,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16442,7 +16518,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2 (2)
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16516,7 +16592,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16704,7 +16780,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: predio_3[1] (7)
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16796,7 +16872,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16870,7 +16946,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2 (6)
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16950,7 +17026,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17101,7 +17177,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17349,7 +17425,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17423,7 +17499,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17497,7 +17573,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17597,7 +17673,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17783,7 +17859,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17851,7 +17927,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: predio_3[1] (5)
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17925,7 +18001,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17954,7 +18030,7 @@ GameObject:
   m_Component:
   - component: {fileID: 914934381}
   m_Layer: 11
-  m_Name: "Pr\xE9dio"
+  m_Name: Building
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17998,54 +18074,18 @@ Transform:
   - {fileID: 903260120}
   m_Father: {fileID: 1663020711}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &917321390 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1579282987822437358, guid: 941fac9249b6442cdb2d3f23472128e2,
+    type: 3}
+  m_PrefabInstance: {fileID: 356096306}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &924578295 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2154241724920093414, guid: b26c4a65cf4c6475a92bfd03c2c3282b,
     type: 3}
   m_PrefabInstance: {fileID: 695900665}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &925475506
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 925475507}
-  m_Layer: 0
-  m_Name: AdditionalTrack
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &925475507
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 925475506}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -1, z: -0, w: -0.0000107586375}
-  m_LocalPosition: {x: -64, y: 0, z: 28.00173}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 30553910}
-  - {fileID: 1194291394}
-  - {fileID: 531262687}
-  - {fileID: 1353094206}
-  - {fileID: 386426935}
-  - {fileID: 470850844}
-  - {fileID: 754220859}
-  - {fileID: 1987036536}
-  - {fileID: 491111849}
-  - {fileID: 1612361935}
-  - {fileID: 524242286}
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: -180.00099, z: 0}
 --- !u!4 &927610941 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0b8a1da9a6657a64e91a55954be82d8f,
@@ -18113,7 +18153,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18283,7 +18323,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18478,7 +18518,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18546,7 +18586,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18614,7 +18654,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18688,7 +18728,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18762,7 +18802,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2 (8)
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19107,7 +19147,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19216,7 +19256,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19290,7 +19330,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: arvore_grande[1] (4)
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19370,7 +19410,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19546,7 +19586,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f55ede618e6215419c7bdd914ee9a37,
         type: 3}
       propertyPath: m_Name
-      value: casa_vermelha (13)
+      value: red_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19620,7 +19660,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19795,7 +19835,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19814,6 +19854,48 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 356096306}
   m_PrefabAsset: {fileID: 0}
+--- !u!65 &1038031699
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 917321390}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.20618534, y: 11.208752, z: 10}
+  m_Center: {x: 4.8969083, y: 5.354376, z: 5}
+--- !u!65 &1038031700
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 917321390}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.2210846, y: 11.0381565, z: 10}
+  m_Center: {x: -5.2573547, y: 5.2690783, z: 5}
 --- !u!4 &1041724180 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c0c4320559ced694fa1072e468e24dad,
@@ -19881,7 +19963,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: predio_3[1] (9)
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19955,7 +20037,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20060,7 +20142,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20255,7 +20337,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f55ede618e6215419c7bdd914ee9a37,
         type: 3}
       propertyPath: m_Name
-      value: casa_vermelha (5)
+      value: red_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20329,7 +20411,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20403,7 +20485,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20586,7 +20668,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (20)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20678,7 +20760,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20752,7 +20834,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20826,7 +20908,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20839,12 +20921,12 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 925475507}
+    m_TransformParent: {fileID: 822690626}
     m_Modifications:
     - target: {fileID: 2910822469167753744, guid: 7973c59434836422cbd71f26d6c1293e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -85.43879
+      value: 21.440002
       objectReference: {fileID: 0}
     - target: {fileID: 2910822469167753744, guid: 7973c59434836422cbd71f26d6c1293e,
         type: 3}
@@ -20854,12 +20936,12 @@ PrefabInstance:
     - target: {fileID: 2910822469167753744, guid: 7973c59434836422cbd71f26d6c1293e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 56.50357
+      value: -28.500002
       objectReference: {fileID: 0}
     - target: {fileID: 2910822469167753744, guid: 7973c59434836422cbd71f26d6c1293e,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.7070992
+      value: -0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 2910822469167753744, guid: 7973c59434836422cbd71f26d6c1293e,
         type: 3}
@@ -20869,7 +20951,7 @@ PrefabInstance:
     - target: {fileID: 2910822469167753744, guid: 7973c59434836422cbd71f26d6c1293e,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.70711446
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 2910822469167753744, guid: 7973c59434836422cbd71f26d6c1293e,
         type: 3}
@@ -20968,7 +21050,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21048,7 +21130,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21242,7 +21324,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21322,7 +21404,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21402,7 +21484,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21425,7 +21507,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1124576156}
   m_Layer: 11
-  m_Name: "\xC1rvores"
+  m_Name: Tree
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21526,7 +21608,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21690,7 +21772,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21866,7 +21948,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21940,7 +22022,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22008,7 +22090,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22076,7 +22158,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (3)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22150,7 +22232,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22218,7 +22300,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22286,7 +22368,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22360,7 +22442,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (17)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22543,7 +22625,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22611,7 +22693,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22685,7 +22767,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22880,7 +22962,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22948,7 +23030,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23071,7 +23153,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2 (7)
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23157,7 +23239,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23421,7 +23503,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23489,7 +23571,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23557,7 +23639,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23631,7 +23713,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23802,7 +23884,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23876,7 +23958,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23944,7 +24026,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23963,12 +24045,12 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 925475507}
+    m_TransformParent: {fileID: 822690626}
     m_Modifications:
     - target: {fileID: 2910822469167753744, guid: 7973c59434836422cbd71f26d6c1293e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -104.49914
+      value: 40.50003
       objectReference: {fileID: 0}
     - target: {fileID: 2910822469167753744, guid: 7973c59434836422cbd71f26d6c1293e,
         type: 3}
@@ -23978,12 +24060,12 @@ PrefabInstance:
     - target: {fileID: 2910822469167753744, guid: 7973c59434836422cbd71f26d6c1293e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 41.50398
+      value: -13.500002
       objectReference: {fileID: 0}
     - target: {fileID: 2910822469167753744, guid: 7973c59434836422cbd71f26d6c1293e,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: -1
+      value: -0.0000014603138
       objectReference: {fileID: 0}
     - target: {fileID: 2910822469167753744, guid: 7973c59434836422cbd71f26d6c1293e,
         type: 3}
@@ -23993,7 +24075,7 @@ PrefabInstance:
     - target: {fileID: 2910822469167753744, guid: 7973c59434836422cbd71f26d6c1293e,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.000012218951
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2910822469167753744, guid: 7973c59434836422cbd71f26d6c1293e,
         type: 3}
@@ -24086,7 +24168,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24206,7 +24288,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: predio_3[1] (2)
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24280,7 +24362,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24348,7 +24430,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24422,7 +24504,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f55ede618e6215419c7bdd914ee9a37,
         type: 3}
       propertyPath: m_Name
-      value: casa_vermelha (4)
+      value: red_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24496,7 +24578,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24564,7 +24646,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (24)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24638,7 +24720,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24712,7 +24794,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: predio_3[1] (10)
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24792,7 +24874,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24884,7 +24966,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2 (3)
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25376,7 +25458,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (21)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25450,7 +25532,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25621,7 +25703,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25885,7 +25967,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25953,7 +26035,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2 (10)
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26039,7 +26121,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26113,7 +26195,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26277,7 +26359,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26345,7 +26427,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f55ede618e6215419c7bdd914ee9a37,
         type: 3}
       propertyPath: m_Name
-      value: casa_vermelha (3)
+      value: red_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26425,7 +26507,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26499,7 +26581,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (15)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26573,7 +26655,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26647,7 +26729,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26833,7 +26915,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26907,7 +26989,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26920,7 +27002,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 925475507}
+    m_TransformParent: {fileID: 822690626}
     m_Modifications:
     - target: {fileID: 100000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_Name
@@ -26940,31 +27022,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -119.42
+      value: 55.419807
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9
+      value: 37.0043
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 4.988007e-24
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -6.123234e-17
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
-      propertyPath: m_LocalRotation.y
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.00000008146034
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0000107586375
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.00000008146034
+      value: 8.7634105e-13
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3cc54c2c67fc34a1abe6fe43c889f8e3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -27062,7 +27144,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27130,7 +27212,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27198,7 +27280,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27272,7 +27354,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27340,7 +27422,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27414,7 +27496,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27482,7 +27564,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (4)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27556,7 +27638,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27630,7 +27712,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28024,7 +28106,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28104,7 +28186,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28172,7 +28254,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28240,7 +28322,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28308,7 +28390,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28382,7 +28464,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28450,7 +28532,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (12)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28530,7 +28612,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28707,7 +28789,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28953,7 +29035,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29142,7 +29224,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29216,7 +29298,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29380,7 +29462,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29454,7 +29536,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29522,7 +29604,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29601,7 +29683,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6ac20b32ca1cc734bb7497d48322b80c,
         type: 3}
       propertyPath: m_Name
-      value: 'guardrail[1]'
+      value: guardrail
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -29675,7 +29757,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29846,7 +29928,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29920,7 +30002,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29988,7 +30070,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30180,7 +30262,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30272,7 +30354,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30346,7 +30428,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30432,7 +30514,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: predio_3[1] (6)
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30512,7 +30594,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30580,7 +30662,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30648,7 +30730,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30734,7 +30816,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30802,7 +30884,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31114,7 +31196,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31188,7 +31270,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (10)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31376,7 +31458,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31450,7 +31532,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31524,7 +31606,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31610,7 +31692,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31684,7 +31766,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31758,7 +31840,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31832,7 +31914,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31906,7 +31988,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32054,7 +32136,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 925475507}
+    m_TransformParent: {fileID: 822690626}
     m_Modifications:
     - target: {fileID: 100002, guid: 994f97374df6444279b54b520d1535c3, type: 3}
       propertyPath: m_Name
@@ -32062,7 +32144,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 994f97374df6444279b54b520d1535c3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -81.310425
+      value: 17.311546
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 994f97374df6444279b54b520d1535c3, type: 3}
       propertyPath: m_LocalPosition.y
@@ -32070,11 +32152,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 994f97374df6444279b54b520d1535c3, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 52.147205
+      value: -24.143724
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 994f97374df6444279b54b520d1535c3, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.0000107586375
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 994f97374df6444279b54b520d1535c3, type: 3}
       propertyPath: m_LocalRotation.x
@@ -32082,7 +32164,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 994f97374df6444279b54b520d1535c3, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 1
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 994f97374df6444279b54b520d1535c3, type: 3}
       propertyPath: m_LocalRotation.z
@@ -32173,7 +32255,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32370,7 +32452,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: arvore_grande[1] (7)
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32534,7 +32616,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32602,7 +32684,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32670,7 +32752,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32778,7 +32860,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (18)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32864,7 +32946,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32938,7 +33020,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33102,7 +33184,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33170,7 +33252,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (23)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33250,7 +33332,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33330,7 +33412,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33435,7 +33517,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33509,7 +33591,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f55ede618e6215419c7bdd914ee9a37,
         type: 3}
       propertyPath: m_Name
-      value: casa_vermelha (12)
+      value: red_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33583,7 +33665,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: arvore_grande[1] (5)
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33663,7 +33745,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33731,7 +33813,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33748,7 +33830,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1663020711}
   m_Layer: 11
-  m_Name: "Cen\xE1rio"
+  m_Name: Scenery
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33775,6 +33857,7 @@ Transform:
   - {fileID: 1041724180}
   - {fileID: 861423370}
   - {fileID: 914934381}
+  - {fileID: 822690626}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1663315059
@@ -33838,7 +33921,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33906,7 +33989,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34033,6 +34116,93 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8ffb0a3502dec614b9ed9671f9773a0f, type: 3}
+--- !u!1001 &1673011964
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 822690626}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: m_Name
+      value: ModularTrackStraight (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: m_Layer
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: m_Layer
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 55.350662
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.8257027
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -6.123168e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0000107586375
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -6.1233004e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 58da84021fce340e9b877f63d3e18336, type: 2}
+    - target: {fileID: 2300004, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7b5f0a7a707e04e939eb8c5dee8e084c, type: 2}
+    - target: {fileID: 6400002, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+      propertyPath: m_CookingOptions
+      value: -1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea, type: 3}
+--- !u!4 &1673011965 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 4c266eccb4ff24ae9aeaf6fa734f60ea,
+    type: 3}
+  m_PrefabInstance: {fileID: 1673011964}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1676422858
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34197,7 +34367,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34265,7 +34435,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34345,7 +34515,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34543,7 +34713,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34611,7 +34781,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34685,7 +34855,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: predio_3[1] (8)
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34863,7 +35033,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34942,7 +35112,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f55ede618e6215419c7bdd914ee9a37,
         type: 3}
       propertyPath: m_Name
-      value: casa_vermelha (8)
+      value: red_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35016,7 +35186,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35090,7 +35260,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35164,7 +35334,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f55ede618e6215419c7bdd914ee9a37,
         type: 3}
       propertyPath: m_Name
-      value: casa_vermelha (11)
+      value: red_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35250,7 +35420,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f55ede618e6215419c7bdd914ee9a37,
         type: 3}
       propertyPath: m_Name
-      value: casa_vermelha (7)
+      value: red_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35432,7 +35602,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35624,7 +35794,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f55ede618e6215419c7bdd914ee9a37,
         type: 3}
       propertyPath: m_Name
-      value: casa_vermelha (2)
+      value: red_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35704,7 +35874,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35790,7 +35960,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35876,7 +36046,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35950,7 +36120,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36171,7 +36341,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36245,7 +36415,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36313,7 +36483,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36381,7 +36551,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36455,7 +36625,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36523,7 +36693,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (19)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36615,7 +36785,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36689,7 +36859,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36757,7 +36927,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36928,7 +37098,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37002,7 +37172,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37070,7 +37240,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37144,7 +37314,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2 (4)
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37218,7 +37388,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37292,7 +37462,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37360,7 +37530,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37434,7 +37604,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37617,7 +37787,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37691,7 +37861,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37855,7 +38025,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37929,7 +38099,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37997,7 +38167,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -38134,7 +38304,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 925475507}
+    m_TransformParent: {fileID: 822690626}
     m_Modifications:
     - target: {fileID: 100000, guid: 5830767f6fba8446ebc1160d406849b5, type: 3}
       propertyPath: m_Layer
@@ -38154,7 +38324,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5830767f6fba8446ebc1160d406849b5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -119.36
+      value: 55.360237
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5830767f6fba8446ebc1160d406849b5, type: 3}
       propertyPath: m_LocalPosition.y
@@ -38162,23 +38332,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5830767f6fba8446ebc1160d406849b5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 10.86
+      value: 17.144299
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5830767f6fba8446ebc1160d406849b5, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: -0.0000107586375
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5830767f6fba8446ebc1160d406849b5, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5830767f6fba8446ebc1160d406849b5, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5830767f6fba8446ebc1160d406849b5, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5830767f6fba8446ebc1160d406849b5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -38276,7 +38446,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -38356,7 +38526,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -38449,7 +38619,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (6)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -38715,7 +38885,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -38789,7 +38959,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -39056,7 +39226,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (16)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -39130,7 +39300,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -39153,7 +39323,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1948855850}
   m_Layer: 11
-  m_Name: Casa
+  m_Name: House
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -39278,7 +39448,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -39352,7 +39522,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (1)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -39438,7 +39608,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f55ede618e6215419c7bdd914ee9a37,
         type: 3}
       propertyPath: m_Name
-      value: casa_vermelha (1)
+      value: red_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -39512,7 +39682,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -39580,7 +39750,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -39768,7 +39938,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -39836,7 +40006,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -39922,7 +40092,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (22)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40002,7 +40172,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40076,7 +40246,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40247,7 +40417,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40315,7 +40485,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40504,7 +40674,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40572,7 +40742,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (11)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40652,7 +40822,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: arvore_grande[1] (1)
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40726,7 +40896,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40800,7 +40970,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41003,7 +41173,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41071,7 +41241,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41139,7 +41309,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41207,7 +41377,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41312,7 +41482,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f78c95a3f72594646b25fe398257c61d,
         type: 3}
       propertyPath: m_Name
-      value: casa_verde (8)
+      value: green_house
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41386,7 +41556,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41454,7 +41624,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41522,7 +41692,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41698,7 +41868,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8a3ffeec1281de45833578706efefb8,
         type: 3}
       propertyPath: m_Name
-      value: tree_2
+      value: mid_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41811,7 +41981,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: arvore_grande[1] (2)
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41879,7 +42049,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41953,7 +42123,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -42027,7 +42197,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -42107,7 +42277,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -42175,7 +42345,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -42249,7 +42419,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6db603c64d1088048a44005a80bd8f32,
         type: 3}
       propertyPath: m_Name
-      value: predio_2
+      value: green_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -42323,7 +42493,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af93262e9aff2424eaa8481f28196b74,
         type: 3}
       propertyPath: m_Name
-      value: tree
+      value: small_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -42397,7 +42567,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e607c1d48ab66e84fb40ba35fd52914d,
         type: 3}
       propertyPath: m_Name
-      value: 'predio_3[1]'
+      value: red_building
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -42477,7 +42647,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -42551,7 +42721,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b8a1da9a6657a64e91a55954be82d8f,
         type: 3}
       propertyPath: m_Name
-      value: 'arvore_grande[1]'
+      value: big_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -42894,8 +43064,6 @@ SceneRoots:
   - {fileID: 1043737005}
   - {fileID: 2042733063034435450}
   - {fileID: 1176067596}
-  - {fileID: 822690626}
-  - {fileID: 925475507}
   - {fileID: 23283999}
   - {fileID: 642613227}
   - {fileID: 3097266126714301340}
