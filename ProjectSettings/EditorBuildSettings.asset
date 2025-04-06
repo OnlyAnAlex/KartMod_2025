@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/MOD/Cenas/CarSelect Multiplayer.unity
     guid: 26cc9e5f590358d44adf0aad3e463e62
   - enabled: 1
-    path: Assets/MOD/Cenas/MainScene.unity
+    path: Assets/MOD/Cenas/Pista1.unity
     guid: 92786e23da2af4a4f8803aaf44c47121
   - enabled: 1
     path: Assets/MOD/Cenas/Pista2.unity
