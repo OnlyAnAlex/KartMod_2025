@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2047336664104694667}
   - component: {fileID: 1957102644646649599}
   m_Layer: 0
-  m_Name: SpeedPad
+  m_Name: Invulnerabilidade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   boostStats:
     modifiers:
-      TopSpeed: 10
+      TopSpeed: 5
       Acceleration: 5
       ReverseSpeed: 0
       ReverseAcceleration: 0
@@ -138,8 +138,8 @@ MonoBehaviour:
       AddedGravity: 0
     PowerUpID: 
     ElapsedTime: 0
-    MaxTime: 1
-  cooldown: 1
+    MaxTime: 5
+  cooldown: 5
   disableGameObjectWhenActivated: 1
   onPowerupActivated:
     m_PersistentCalls:
