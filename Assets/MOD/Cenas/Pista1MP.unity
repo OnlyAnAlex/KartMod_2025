@@ -11082,6 +11082,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6691645747818288878, guid: 4366ba6a4d5213d4f9fc7bba3e778799,
+        type: 3}
+      propertyPath: m_Layer
+      value: 16
+      objectReference: {fileID: 0}
     - target: {fileID: 6691645748356329552, guid: 4366ba6a4d5213d4f9fc7bba3e778799,
         type: 3}
       propertyPath: m_Follow
@@ -11150,12 +11155,22 @@ PrefabInstance:
     - target: {fileID: 6691645748356329554, guid: 4366ba6a4d5213d4f9fc7bba3e778799,
         type: 3}
       propertyPath: m_Name
-      value: CinemachineVirtualCamera (1)
+      value: CinemachineVirtualCamera2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6691645748356329554, guid: 4366ba6a4d5213d4f9fc7bba3e778799,
+        type: 3}
+      propertyPath: m_Layer
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 6691645748356329554, guid: 4366ba6a4d5213d4f9fc7bba3e778799,
         type: 3}
       propertyPath: m_TagString
       value: CAM2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6691645748356329555, guid: 4366ba6a4d5213d4f9fc7bba3e778799,
+        type: 3}
+      propertyPath: m_IgnoreTag
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17129,6 +17144,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6691645747818288878, guid: 4366ba6a4d5213d4f9fc7bba3e778799,
+        type: 3}
+      propertyPath: m_Layer
+      value: 15
+      objectReference: {fileID: 0}
     - target: {fileID: 6691645748356329552, guid: 4366ba6a4d5213d4f9fc7bba3e778799,
         type: 3}
       propertyPath: m_Follow
@@ -17201,8 +17221,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6691645748356329554, guid: 4366ba6a4d5213d4f9fc7bba3e778799,
         type: 3}
+      propertyPath: m_Layer
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 6691645748356329554, guid: 4366ba6a4d5213d4f9fc7bba3e778799,
+        type: 3}
       propertyPath: m_TagString
       value: CAM1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6691645748356329555, guid: 4366ba6a4d5213d4f9fc7bba3e778799,
+        type: 3}
+      propertyPath: m_IgnoreTag
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23484,7 +23514,7 @@ GameObject:
   - component: {fileID: 1207105317}
   - component: {fileID: 1207105316}
   - component: {fileID: 1207105320}
-  m_Layer: 15
+  m_Layer: 0
   m_Name: CAMP1
   m_TagString: CAM1
   m_Icon: {fileID: 0}
@@ -23572,7 +23602,7 @@ Camera:
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 65335
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -24873,7 +24903,7 @@ GameObject:
   - component: {fileID: 1249931514}
   - component: {fileID: 1249931513}
   - component: {fileID: 1249931512}
-  m_Layer: 16
+  m_Layer: 0
   m_Name: CAMP2
   m_TagString: CAM1
   m_Icon: {fileID: 0}
@@ -24931,7 +24961,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1249931511}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
   m_Name: 
@@ -24965,7 +24995,7 @@ AudioListener:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1249931511}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!20 &1249931515
 Camera:
   m_ObjectHideFlags: 0
@@ -25005,7 +25035,7 @@ Camera:
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 98103
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -32773,7 +32803,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1594210238}
-  - component: {fileID: 1594210237}
   - component: {fileID: 1594210236}
   m_Layer: 0
   m_Name: CarSpawnerP2
@@ -32800,26 +32829,7 @@ MonoBehaviour:
   - {fileID: 3508530279822352650, guid: 55c843db8b66af34f8afecf48fa002da, type: 3}
   - {fileID: 3508530279822352650, guid: 89959269b5b931b43a045276c5ee301a, type: 3}
   - {fileID: 0}
-  virtualCamera: {fileID: 1932565287}
---- !u!114 &1594210237
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1594210235}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3cde55f6d57dd3146bee6abf67d43e40, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  vehicles:
-  - {fileID: 3508530279822352650, guid: 83344bb0b44fa564d9b6cf84bd7f6096, type: 3}
-  - {fileID: 3508530279822352650, guid: 8ff9252dd45d8e648bbedf8e20fc63cf, type: 3}
-  - {fileID: 3508530279822352650, guid: 55c843db8b66af34f8afecf48fa002da, type: 3}
-  - {fileID: 3508530279822352650, guid: 89959269b5b931b43a045276c5ee301a, type: 3}
-  - {fileID: 0}
-  virtualCamera: {fileID: 1972763002}
+  virtualCamera2: {fileID: 1932565287}
 --- !u!4 &1594210238
 Transform:
   m_ObjectHideFlags: 0

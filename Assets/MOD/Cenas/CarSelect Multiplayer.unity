@@ -574,11 +574,11 @@ RectTransform:
   m_Children:
   - {fileID: 1714028598}
   - {fileID: 539432425}
-  m_Father: {fileID: 1398578710}
+  m_Father: {fileID: 630742499}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -59}
+  m_AnchoredPosition: {x: 809, y: -518}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &153934163
@@ -2346,6 +2346,7 @@ GameObject:
   - component: {fileID: 539432428}
   - component: {fileID: 539432427}
   - component: {fileID: 539432426}
+  - component: {fileID: 539432431}
   m_Layer: 5
   m_Name: VAMBORA
   m_TagString: Untagged
@@ -2370,7 +2371,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -0}
+  m_AnchoredPosition: {x: 0, y: 12.5}
   m_SizeDelta: {x: 265.5285, y: 66.371}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &539432426
@@ -2495,6 +2496,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 539432424}
   m_CullTransparentMesh: 1
+--- !u!114 &539432431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 539432424}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba351b15c1d51eb47a9f85198ab3bba0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  amplitude: 10
+  speed: 2
 --- !u!1 &586643977
 GameObject:
   m_ObjectHideFlags: 0
@@ -2764,6 +2779,7 @@ RectTransform:
   m_Children:
   - {fileID: 1345553800}
   - {fileID: 1427795718}
+  - {fileID: 95574096}
   m_Father: {fileID: 1398578710}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -2785,9 +2801,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   button1: {fileID: 1345553802}
   button2: {fileID: 1427795721}
-  confirmButton: {fileID: 539432428}
+  letsGo: {fileID: 95574095}
+  button3: {fileID: 539432428}
   button1Text: {fileID: 1071171221}
   button2Text: {fileID: 1683258985}
+  isButton1Ready: 0
+  isButton2Ready: 0
 --- !u!1001 &687044545
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5190,7 +5209,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1345553803}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 40366239}
+        m_TargetAssemblyTypeName: CarSelection, Assembly-CSharp
+        m_MethodName: OnVehicleSelectedMultiPlayerPlayer1
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1345553803
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5412,9 +5443,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 630742499}
   - {fileID: 624539391}
-  - {fileID: 95574096}
   - {fileID: 1095983079}
   - {fileID: 2084749879}
   - {fileID: 1384345498}
@@ -5422,6 +5451,7 @@ RectTransform:
   - {fileID: 2141906620}
   - {fileID: 175321994}
   - {fileID: 783156264}
+  - {fileID: 630742499}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -5652,7 +5682,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1427795722}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 382124883}
+        m_TargetAssemblyTypeName: CarSelection, Assembly-CSharp
+        m_MethodName: OnVehicleSelectedMultiPlayerPlayer2
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1427795722
 MonoBehaviour:
   m_ObjectHideFlags: 0

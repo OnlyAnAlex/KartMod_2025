@@ -5,32 +5,30 @@ using TMPro;
 
 public class ButtonConfirmManager : MonoBehaviour
 {
-    public Button button1; // Botão 1
-    public Button button2; // Botão 2
-    public Button confirmButton; // Botão de confirmação
-    public TMP_Text button1Text; // Texto do botão 1
-    public TMP_Text button2Text; // Texto do botão 2
+    public Button button1; // Ready P1
+    public Button button2; // Ready P2
+    public GameObject letsGo; // Let's Go
+    public Button button3;
 
-    private bool isButton1Ready = false; // Estado do botão 1
-    private bool isButton2Ready = false; // Estado do botão 2
+    public TMP_Text button1Text; 
+    public TMP_Text button2Text; 
 
-    // Variáveis a serem enviadas
-    private int variableA = 42;
-    private string variableB = "Olá, próxima cena!";
+    public bool isButton1Ready = false; 
+    public bool isButton2Ready = false; 
+
 
     void Start()
     {
-        // Inicializa o texto dos botões
         button1Text.text = "Pressione";
         button2Text.text = "Pressione";
 
-        // Desativa o botão de confirmação inicialmente
-        confirmButton.gameObject.SetActive(false);
+ 
 
-        // Adiciona os listeners dos botões
+        letsGo.gameObject.SetActive(false);
+
         button1.onClick.AddListener(() => OnButtonPressed(1));
         button2.onClick.AddListener(() => OnButtonPressed(2));
-        confirmButton.onClick.AddListener(OnConfirmPressed);
+        button3.onClick.AddListener(OnConfirmPressed);
     }
 
     void OnButtonPressed(int buttonNumber)
@@ -46,20 +44,15 @@ public class ButtonConfirmManager : MonoBehaviour
             button2Text.text = "PRONTO!";
         }
 
-        // Verifica se ambos estão prontos
+       
         if (isButton1Ready && isButton2Ready)
         {
-            confirmButton.gameObject.SetActive(true);
+            letsGo.gameObject.SetActive(true);
         }
     }
 
     void OnConfirmPressed()
     {
-        // Envia as variáveis para a próxima cena
-        PlayerPrefs.SetInt("VariableA", variableA);
-        PlayerPrefs.SetString("VariableB", variableB);
-
-        // Troca para a nova cena
-        SceneManager.LoadScene("NovaCena");
+        SceneManager.LoadScene("Pista1MP");
     }
 }

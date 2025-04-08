@@ -1,5 +1,6 @@
 using UnityEngine;
 using Cinemachine;
+using KartGame.KartSystems;
 
 public class CarSpawnerMP : MonoBehaviour
 {
@@ -13,31 +14,44 @@ public class CarSpawnerMP : MonoBehaviour
      * 
      */
 
-    public CinemachineVirtualCamera virtualCamera; // Referência à Cinemachine Virtual Camera
-    private GameObject spawnedVehicle; // O veículo instanciado
+    public CinemachineVirtualCamera virtualCamera2;
+    private GameObject spawnedVehicle2;
 
-    void Start()
+    void Awake()
     {
-        // Lê a escolha do veículo a partir do PlayerPrefs
-        int selectedVehicleIndex = PlayerPrefs.GetInt("SelectedP2", 0); // Padrão para 0 se não encontrado
+       
+        int selectedVehicleIndex2 = PlayerPrefs.GetInt("SelectedP2", 0); 
 
-        // Checa se o índice é válido
-        if (selectedVehicleIndex >= 0 && selectedVehicleIndex < vehicles.Length)
+        if (selectedVehicleIndex2 >= 0 && selectedVehicleIndex2 < vehicles.Length)
         {
-            // Instancia o veículo escolhido na posição do spawner
-            spawnedVehicle = Instantiate(vehicles[selectedVehicleIndex], transform.position, transform.rotation);
+         
+            spawnedVehicle2 = Instantiate(vehicles[selectedVehicleIndex2], transform.position, transform.rotation);
 
-            // Configura a Cinemachine Virtual Camera para seguir o veículo
-            if (virtualCamera != null)
+
+
+            spawnedVehicle2.GetComponent<KeyboardInput>().TurnInputName = "HorizontalP2";
+            spawnedVehicle2.GetComponent<KeyboardInput>().AccelerateButtonName = "VerticalUpP2";
+            spawnedVehicle2.GetComponent<KeyboardInput>().BrakeButtonName = "VerticalDownP2";
+            //spawnedVehicle2.GetComponent<PlayerPowers>().inputToUsePower = "UsePowerP2";
+
+            // Coloca as câmeras para seguirem os karts.
+
+
+            virtualCamera2.GetComponent<CinemachineVirtualCamera>().Follow = spawnedVehicle2.transform;
+            virtualCamera2.GetComponent<CinemachineVirtualCamera>().LookAt = spawnedVehicle2.transform;
+
+
+
+            if (virtualCamera2 != null)
             {
-                // Atribui o veículo como o alvo de Follow e Look At da Cinemachine
-                virtualCamera.Follow = spawnedVehicle.transform;
-                virtualCamera.LookAt = spawnedVehicle.transform;
+             
+                //virtualCamera2.Follow = spawnedVehicle2.transform;
+                //virtualCamera2.LookAt = spawnedVehicle2.transform;
             }
         }
         else
         {
-            Debug.LogError("Índice de veículo inválido.");
+            Debug.LogError("sem carro lol.");
         }
     }
 }

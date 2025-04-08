@@ -62,10 +62,21 @@ public class CarSelection : MonoBehaviour
         //SceneManager.LoadScene("MainScene"); 
     }
 
-    public void OnVehicleSelectedMultiPlayer()
+    public void OnVehicleSelectedMultiPlayerPlayer1()
     {
 
         PlayerPrefs.SetInt("SelectedP1", currentCar);
+      
+
+        Debug.Log(currentCar);
+
+        //SceneManager.LoadScene("MainScene");
+    }
+
+    public void OnVehicleSelectedMultiPlayerPlayer2()
+    {
+
+        
         PlayerPrefs.SetInt("SelectedP2", currentCar);
 
         Debug.Log(currentCar);

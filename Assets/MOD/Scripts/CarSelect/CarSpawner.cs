@@ -1,5 +1,6 @@
 using UnityEngine;
 using Cinemachine;
+using KartGame.KartSystems;
 
 public class CarSpawner : MonoBehaviour
 {
@@ -16,7 +17,7 @@ public class CarSpawner : MonoBehaviour
     public CinemachineVirtualCamera virtualCamera; // Referência à Cinemachine Virtual Camera
     private GameObject spawnedVehicle; // O veículo instanciado
 
-    void Start()
+    void Awake()
     {
         // Lê a escolha do veículo a partir do PlayerPrefs
         int selectedVehicleIndex = PlayerPrefs.GetInt("SelectedP1", 0); // Padrão para 0 se não encontrado
@@ -27,12 +28,25 @@ public class CarSpawner : MonoBehaviour
             // Instancia o veículo escolhido na posição do spawner
             spawnedVehicle = Instantiate(vehicles[selectedVehicleIndex], transform.position, transform.rotation);
 
+
+            spawnedVehicle.GetComponent<KeyboardInput>().TurnInputName = "HorizontalP1";
+            spawnedVehicle.GetComponent<KeyboardInput>().AccelerateButtonName = "VerticalUpP1";
+            spawnedVehicle.GetComponent<KeyboardInput>().BrakeButtonName = "VerticalDownP1";
+            //spawnedVehicle2.GetComponent<PlayerPowers>().inputToUsePower = "UsePowerP2";
+
+            // Coloca as câmeras para seguirem os karts.
+
+
+            virtualCamera.GetComponent<CinemachineVirtualCamera>().Follow = spawnedVehicle.transform;
+            virtualCamera.GetComponent<CinemachineVirtualCamera>().LookAt = spawnedVehicle.transform;
+
+
             // Configura a Cinemachine Virtual Camera para seguir o veículo
             if (virtualCamera != null)
             {
                 // Atribui o veículo como o alvo de Follow e Look At da Cinemachine
-                virtualCamera.Follow = spawnedVehicle.transform;
-                virtualCamera.LookAt = spawnedVehicle.transform;
+                //virtualCamera.Follow = spawnedVehicle.transform;
+                //virtualCamera.LookAt = spawnedVehicle.transform;
             }
         }
         else
