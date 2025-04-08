@@ -984,6 +984,7 @@ GameObject:
   - component: {fileID: 5888541453419060899}
   - component: {fileID: 6529843256774791363}
   - component: {fileID: 113164897245159742}
+  - component: {fileID: -5124278593384303993}
   m_Layer: 2
   m_Name: BrunoKart
   m_TagString: Player
@@ -1188,6 +1189,20 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.2086105, y: 0.83679056, z: 3.2243948}
   m_Center: {x: 0.10430527, y: 0.58, z: 0.028244019}
+--- !u!114 &-5124278593384303993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3508530279822352650}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f87f3a1771dd9548b33f568a2649efa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hudItemDisplay: {fileID: 0}
+  rouletteSpeed: 0.1
 --- !u!1 &3595317195030633681
 GameObject:
   m_ObjectHideFlags: 0

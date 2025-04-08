@@ -6,6 +6,8 @@ TagManager:
   tags:
   - CrashMode
   - Checkpoint
+  - CAM1
+  - CAM2
   layers:
   - Default
   - TransparentFX
