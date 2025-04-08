@@ -21,10 +21,10 @@ namespace KartGame.KartSystems
         {
             [Header("Movement Settings")]
             [Min(0.001f), Tooltip("Top speed attainable when moving forward.")]
-            static public float TopSpeed;
+            public float TopSpeed;
 
             [Tooltip("How quickly the kart reaches top speed.")]
-            static public float Acceleration;
+            public float Acceleration;
 
             [Min(0.001f), Tooltip("Top speed attainable when moving backward.")]
             public float ReverseSpeed;
