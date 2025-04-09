@@ -24456,7 +24456,7 @@ MonoBehaviour:
   - {fileID: 3508530279822352650, guid: 8ff9252dd45d8e648bbedf8e20fc63cf, type: 3}
   - {fileID: 3508530279822352650, guid: 55c843db8b66af34f8afecf48fa002da, type: 3}
   - {fileID: 3508530279822352650, guid: 89959269b5b931b43a045276c5ee301a, type: 3}
-  - {fileID: 0}
+  - {fileID: 355379582340736818, guid: eb35476939ad78744a9b9f0a39aae6af, type: 3}
   virtualCamera: {fileID: 1972763002}
 --- !u!1001 &1228396075
 PrefabInstance:
@@ -32828,7 +32828,7 @@ MonoBehaviour:
   - {fileID: 3508530279822352650, guid: 8ff9252dd45d8e648bbedf8e20fc63cf, type: 3}
   - {fileID: 3508530279822352650, guid: 55c843db8b66af34f8afecf48fa002da, type: 3}
   - {fileID: 3508530279822352650, guid: 89959269b5b931b43a045276c5ee301a, type: 3}
-  - {fileID: 0}
+  - {fileID: 355379582340736818, guid: eb35476939ad78744a9b9f0a39aae6af, type: 3}
   virtualCamera2: {fileID: 1932565287}
 --- !u!4 &1594210238
 Transform:

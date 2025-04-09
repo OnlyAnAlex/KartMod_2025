@@ -3749,8 +3749,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: CarSelection, KartGame
+      - m_Target: {fileID: 40366239}
+        m_TargetAssemblyTypeName: CarSelection, Assembly-CSharp
         m_MethodName: ChangeCart
         m_Mode: 3
         m_Arguments:
